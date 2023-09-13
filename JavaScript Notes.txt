@@ -1,0 +1,36 @@
+Data types and operators in Javascript
+variables
+	let myName...
+	let myAge
+numbers 
+	Integers are floating point numbers without decimal.
+	float numbers have decimals and decimal placeas.
+	Doubles are similar to floating point numbers, except they have a greater precision.
+	you can use e notation for large numbers
+arithmetic 
+	** for power is back baby
+	Precedence follows PEMDAS
+	
+strings
+	MATCH YOUR QUOTE TYPE
+	string concatenation is str + str: "Do" + "doowee" + "bop"
+	`use these backticks` when you're inserting a value into the string
+	`you insert ${variableName} like this`
+	LITERALS
+ math
+	INFINITY
+	-INFINITY
+	Not A Number
+
+typeof {variable} will return it's type as a string
+
+Logic is ||, &&, and !
+
+using Number() on a vairable determines whether it is..or contains a numbers
+
+Bindings: 
+let caught = 10;   //there is now a variable, caught, that is bound to the value ten.
+
+Loops
+while(condition){
+}
