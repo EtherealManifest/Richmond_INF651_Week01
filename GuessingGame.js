@@ -7,7 +7,7 @@ while(true){
         userGuess = Number(prompt("Incorrect!, try again. Guess a number between 1 and 10"));
         continue;
     }
-    para.innerHTML = `Correct, the number was ${numToGuess}!`;
+    alert(`Correct, the number was ${numToGuess}!`);
     break;
 }
 
